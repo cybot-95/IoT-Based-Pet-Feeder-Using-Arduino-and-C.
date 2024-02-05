@@ -7,9 +7,13 @@ The objective of this project is to design an automatic pet feeder using the int
 Components Used:
 
 Nodemcu esp8266
+
 Ultrasonic sensor
+
 RTC DS3231 module
+
 Servo motor
+
 Working:
 
 The system operates in two modes - Automatic and Manual.
